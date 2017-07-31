@@ -1,1 +1,15 @@
 theme: jekyll-theme-hacker
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            CTF & Stuff
+tagline:          'CTF'
+description:      'CTF Waregames, Exploitation and stuff'
+url:              https://m-ynk.github.io/
+baseurl:          /
+
+author:
+  name:           'm-ynk'
+  url:            https://m-ynk.github.io/
